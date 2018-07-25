@@ -1,0 +1,5 @@
+node_modules
+tmp
+service_account_key.json
+config.js
+firestore-export.csv

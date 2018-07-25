@@ -1,0 +1,12 @@
+{
+  "name": "firestore-csv-export",
+  "version": "1.0.0",
+  "description": "firestore exporter",
+  "main": "index.js",
+  "author": "Masahiro Nishimi",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^5.13.1",
+    "json2csv": "^4.1.6"
+  }
+}
